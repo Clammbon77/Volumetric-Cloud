@@ -1,2 +1,2 @@
 # Volumetric Cloud
-Source Code of project for DGI23 Computer Graphics and Interaction Course in KTH. Rendering is based on OpenGL. 
+Source Code of Volumetric Cloud Rendering based on OpenGL. 
