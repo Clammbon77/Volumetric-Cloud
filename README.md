@@ -2,7 +2,7 @@
 Developed in Visual Studio as IDE and mainly based on OpenGL API. Relied on libraries: **glew**, **freeglut**, **glm**, **SOIL** and **assimp**.
 
 * Skybox
-  Create a cubemap which is a cube with 6 faces textured and then let this cube warp the camera. The cube need to move together with the camera so that background will always be the texture of the cubemap.
+Create a cubemap which is a cube with 6 faces textured and then let this cube warp the camera. The cube need to move together with the camera so that background will always be the texture of the cubemap.
 * Deferred Rendering
   * 1st Pass: shadow mapping to get the shadow texture
   * 2nd Pass: gbuffer pass that buffer color, normal, depth and world position as texture
